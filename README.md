@@ -1,6 +1,8 @@
 ## Heart_diseases_dataset
 
-Este é um Projeto de um dataset obtido da plataforma [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=heart.csv).
+Este é um Projeto com base em um dataset obtido da plataforma [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=heart.csv).
+
+Este Projeto será divido em duas partes, na primeira vamos fazer uma Analise Descritiva e responder algumas perguntas com base nas informações que iremos conseguir no meio do processo de Analise. Na segunda parte iremos fazer um modelo para prever provaveis pacientes com problemas cardiacos com base nas informações do nosso dataset.
 
 Essa base de dados é um conjunto de dados relacionados a pacientes com problemas cardíacos, com várias variáveis de entrada (ou recursos) e uma variável de saída (ou rótulo) indicando se o paciente possui ou não uma doença cardíaca. As colunas na base de dados representam as seguintes informações:
 
